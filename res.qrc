@@ -1,0 +1,136 @@
+<!DOCTYPE RCC><RCC version="1.0">
+     <qresource>
+
+          <file>fonts/OpenSans-Light.ttf</file>
+          <file>fonts/OpenSans-Regular.ttf</file>
+
+          <file>images/sidebar/bg.png</file>
+
+          <file>images/sidebar/NewProfile.png</file>
+          <file>images/sidebar/NewProfileSelected.png</file>
+          <file>images/sidebar/NewProfileHover.png</file>
+
+          <file>images/sidebar/EditProfile.png</file>
+          <file>images/sidebar/EditProfilePressed.png</file>
+          <file>images/sidebar/EditProfileHover.png</file>
+
+          <file>images/sidebar/EditSettings.png</file>
+          <file>images/sidebar/EditSettingsPressed.png</file>
+          <file>images/sidebar/EditSettingsHover.png</file>
+
+          <file>images/sidebar/QuickSync.png</file>
+          <file>images/sidebar/QuickSyncPressed.png</file>
+          <file>images/sidebar/QuickSyncHover.png</file>
+
+          <file>images/sidebar/Search.png</file>
+          <file>images/sidebar/SearchPressed.png</file>
+          <file>images/sidebar/SearchHover.png</file>
+
+          <file>images/sidebar/Run.png</file>
+          <file>images/sidebar/RunPressed.png</file>
+          <file>images/sidebar/RunHover.png</file>
+          <file>images/sidebar/RunDisabled.png</file>
+
+          <file>images/sidebar/Pause.png</file>
+          <file>images/sidebar/PausePressed.png</file>
+          <file>images/sidebar/PauseHover.png</file>
+
+          <file>images/sidebar/FinishedEdit.png</file>
+          <file>images/sidebar/FinishedEditPressed.png</file>
+          <file>images/sidebar/FinishedEditHover.png</file>
+
+          <file>images/sidebar/LoadBox.png</file>
+          <file>images/sidebar/LoadBoxPressed.png</file>
+          <file>images/sidebar/LoadBoxHover.png</file>
+
+          <file>images/LeftFolder.png</file>
+          <file>images/RightFolder.png</file>
+
+          <file>images/tick.png</file>
+          <file>images/syncsymbol.png</file>
+          <file>images/spacer.png</file>
+          <file>images/verticalSpacer.png</file>
+
+          <file>images/TipsAndHintsA.png</file>
+          <file>images/TipsAndHintsB.png</file>
+          <file>images/Thanks.png</file> 
+
+          <file>images/LargeArrowL.png</file> 
+          <file>images/LargeArrowR.png</file>
+
+          <file>images/files/allFiles.png</file>     
+          <file>images/files/music.png</file>  
+          <file>images/files/office.png</file>
+          <file>images/files/pictures.png</file>
+          <file>images/files/video.png</file>      
+          <file>images/files/custom.png</file> 
+
+          <file>images/DirectionLR.png</file> 
+          <file>images/DirectionRL.png</file> 
+          <file>images/DirectionBoth.png</file> 
+
+          <file>images/flags/english.png</file>
+          <file>images/flags/german.png</file>
+          <file>images/flags/french.png</file>
+          <file>images/flags/spanish.png</file>
+          <file>images/flags/chinese.png</file>
+
+          <file>images/busy.gif</file>
+          <file>images/complete.png</file>
+
+          <file>images/general/icon16.png</file>
+          <file>images/general/inProgress.gif</file>
+          
+          <file>images/general/error.png</file>
+          <file>images/general/remove.png</file>
+
+          <file>images/general/file.png</file>
+          <file>images/general/video.png</file>   
+          <file>images/general/filenew.png</file>
+          <file>images/general/folder16new.png</file>       
+          <file>images/general/folder16.png</file>
+          <file>images/general/folder16L.png</file>
+          <file>images/general/folder16R.png</file>
+
+          <file>images/general/filedelete.png</file>
+          <file>images/general/filemove.png</file>
+          <file>images/general/filerename.png</file>
+
+          <file>images/general/folder16delete.png</file>
+          <file>images/general/folder16move.png</file>
+          <file>images/general/folder16rename.png</file>
+
+          <file>images/general/LoadProfile.png</file>
+          <file>images/general/LoadProfileHover.png</file>
+          <file>images/general/LoadProfilePressed.png</file>
+          <file>images/general/profilebg.png</file>
+          <file>images/general/pattern.png</file>
+
+          <file>images/backgrounds/blackbg.png</file>
+          <file>images/backgrounds/subtlenet.png</file>
+          <file>images/backgrounds/escheresque.png</file>
+
+          <file>images/general/tree/closed.png</file>
+          <file>images/general/tree/open.png</file>    
+          <file>images/general/tree/lbranch.png</file>    
+          <file>images/general/tree/tbranch.png</file>    
+          <file>images/general/tree/vertbranch.png</file>
+
+          <file>images/general/folderwithfiles.png</file>
+          <file>images/general/folderwithoutfiles.png</file>
+
+          <file>images/table/tick.png</file>
+          <file>images/table/skip.png</file>  
+          <file>images/table/error.png</file>
+
+          <file>images/table/sync1.png</file>
+          <file>images/table/sync2.png</file>
+          <file>images/table/sync3.png</file>
+          <file>images/table/sync4.png</file>
+          <file>images/table/sync5.png</file>
+          <file>images/table/sync6.png</file>     
+          <file>images/table/sync7.png</file>
+          <file>images/table/sync8.png</file>
+
+     </qresource>
+</RCC>

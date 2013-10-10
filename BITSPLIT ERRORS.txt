@@ -1,0 +1,2 @@
+BITSPLIT ERRORS
+1 - Left root directory does not exist.
